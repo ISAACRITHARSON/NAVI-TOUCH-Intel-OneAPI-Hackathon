@@ -4,7 +4,7 @@ Assistive hardware technology for the blind individuals has come a long way. Wit
 ## 
 
 ![App Screenshot](https://miro.medium.com/v2/resize:fit:720/format:webp/0*NJgFCiouEU853mXd.png)
-![App Screenshot](https://miro.medium.com/v2/resize:fit:640/1*Z75eivscar51Ebi1RTbeXA.gif)
+![App Screenshot](https://miro.medium.com/v2/resize:fit:720/format:webp/1*aOAniWxbU8zfWa4mPOzIdg.jpeg)
 
 
 
