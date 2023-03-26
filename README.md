@@ -34,7 +34,7 @@ Clone the project
 
 ## Tech Stack
 
-**Hardware:** Nvidia Jetson Nano, Arduino Nano, Jumper cables, 3D-Glass Frame, Servo motors
+**Hardware:** Nvidia Jetson Nano, Arduino Nano, Jumper Wires, 3D-Glass Frame, Servo motors, Headphones, USB-Audio Jack Converter, Power Adapters
 
 **Software:** OneAPI Dev cloud Platform, Intel-tensorflow library, Intel optimized transfer learning models, One DNN Libraries
 
