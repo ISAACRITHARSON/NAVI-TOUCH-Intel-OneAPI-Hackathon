@@ -44,7 +44,6 @@ Clone the project
 For support, email isaacritharson@karunya.edu.in 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-ritharson-36924b209/)
 [![medium](https://img.shields.io/badge/-link%20to%20medium-black)](https://medium.com/@isaacritharson/revolutionizing-blind-navigation-with-oneapi-e621b8cad0bf)
 
