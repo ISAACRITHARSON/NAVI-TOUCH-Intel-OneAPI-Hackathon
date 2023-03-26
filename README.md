@@ -14,7 +14,7 @@ Assistive hardware technology for the blind individuals has come a long way. Wit
 - Cost Effective (made within 10,000 Rs)
 - Realtime Assistive Technology
 - Supports Pedestrain Detection
-- Easy Navigation
+- Easy local Navigation
 
 
 ## Run Locally
