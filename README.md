@@ -4,7 +4,7 @@ Assistive hardware technology for the blind individuals has come a long way. Wit
 # Navi-Touch
 
 ![App Screenshot](https://miro.medium.com/v2/resize:fit:464/1*jbIR3WVz_-zvsSnYRv3h7A.gif)
-![App Screenshot](https://miro.medium.com/v2/resize:fit:720/1*CO7g1Hw0HR09A32cVtc_gQ.gif)
+![App Screenshot](https://miro.medium.com/v2/resize:fit:720/format:webp/1*kJRfosWaDWgxR-FPvsHWbg.png)
 
 
 ![App Screenshot](https://miro.medium.com/v2/resize:fit:720/format:webp/0*NJgFCiouEU853mXd.png)
