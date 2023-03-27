@@ -58,6 +58,8 @@ For support, email isaacritharson@karunya.edu.in
  - [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
  - [Servo motor connection](https://docs.arduino.cc/learn/electronics/servo-motors)
 
+## Team Members
+-Isaac Ritharson, Sri Ram MS, Shree Hari B, Dakshnakumar GS
 
 ## Contributing
 
