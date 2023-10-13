@@ -15,7 +15,7 @@ Assistive hardware technology for the blind individuals has come a long way. Wit
  
 ## Features
 
-- Cost Effective (Budget: 10,000 Rs)
+- Cost Effective (Total Budget: 10,000 Rs)
 - Realtime Assistive Technology
 - Supports Pedestrain Detection
 - Navigation made Easy
