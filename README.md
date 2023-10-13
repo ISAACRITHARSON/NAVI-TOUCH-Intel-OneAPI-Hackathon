@@ -50,8 +50,7 @@ For support, email isaacritharson@karunya.edu.in
 [![Report Article](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.researchgate.net/publication/373076872_Project_Based_Learning_2022-23_IMPROVING_MOBILITY_AND_INDEPENDENCE_FOR_HARD-TO-SEE_INDIVIDUALS)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-ritharson-p-36924b209/)
 [![Powerpoint Presentation](https://img.shields.io/badge/-link%20to%20medium-black)](https://www.researchgate.net/publication/373103156_Presentation)
-[![Medium Blog](https://img.shields.io/badge/-link%20to%20medium-black)](https://medium.com/@isaacritharson/revolutionizing-blind-navigation-with-oneapi-e621b8cad0bf)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@isaacritharson/revolutionizing-blind-navigation-with-oneapi-e621b8cad0bf)
 
 ## Acknowledgements
 
