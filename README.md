@@ -54,9 +54,9 @@ For support, email isaacritharson@karunya.edu.in
 
 ## Acknowledgements
 
- - [Jetson Nano Tutorials](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write)
- - [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
- - [Servo motor connection](https://docs.arduino.cc/learn/electronics/servo-motors)
+ - [Getting Started with Jetson Nano](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write)
+ - [Buy Arduino Nano](https://store.arduino.cc/products/arduino-nano)
+ - [Servo motors and Arduino](https://docs.arduino.cc/learn/electronics/servo-motors)
 
 ## Team Members
 -Isaac Ritharson, Sri Ram MS, Shree Hari B, Dakshnakumar GS
