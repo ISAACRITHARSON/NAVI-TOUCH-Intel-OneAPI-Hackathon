@@ -28,7 +28,7 @@ Assistive hardware technology for the blind individuals has come a long way. Wit
 Clone the project
 
 ```bash
-  git clone https://github.com/staroIR11/Navi-Touch--IntelOneAPI
+  gh repo clone ISAACRITHARSON/NAVI-TOUCH-Intel-OneAPI-Hackathon
 ```
 
 
