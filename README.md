@@ -8,8 +8,6 @@ Assistive hardware technology for the blind individuals has come a long way. Wit
 
 
 
-
-
 ![App Screenshot](https://miro.medium.com/v2/resize:fit:720/format:webp/0*NJgFCiouEU853mXd.png)
 
 
@@ -21,7 +19,7 @@ Assistive hardware technology for the blind individuals has come a long way. Wit
 - Realtime Assistive Technology
 - Supports Pedestrain Detection
 - Navigation made Easy 
-
+![App Screenshot](https://github.com/ISAACRITHARSON/NAVI-TOUCH-Intel-OneAPI-Hackathon/blob/master/Poster/Intel%20Equipathon%20Challenge%20Winners.jpeg)
 
 ## Run Locally
 
