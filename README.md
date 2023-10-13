@@ -46,7 +46,7 @@ Clone the project
 
 For support, email isaacritharson@karunya.edu.in 
 
-## 🔗 Links
+## 🔗 Related Links
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/publication/373076872_Project_Based_Learning_2022-23_IMPROVING_MOBILITY_AND_INDEPENDENCE_FOR_HARD-TO-SEE_INDIVIDUALS)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-ritharson-p-36924b209/)
 [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.researchgate.net/publication/373103156_Presentation)
