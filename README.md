@@ -44,7 +44,7 @@ Clone the project
 
 ## Support
 
-For support, email isaacritharson@karunya.edu.in 
+For any support, email isaacritharson@karunya.edu.in 
 
 ## 🔗 Related Links
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/publication/373076872_Project_Based_Learning_2022-23_IMPROVING_MOBILITY_AND_INDEPENDENCE_FOR_HARD-TO-SEE_INDIVIDUALS)
