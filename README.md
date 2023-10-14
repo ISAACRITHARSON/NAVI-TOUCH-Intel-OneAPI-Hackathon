@@ -38,7 +38,7 @@ Clone the project
 
 **Hardware:** Nvidia Jetson Nano, Arduino Nano, Jumper cables, 3D-Glass Frame, Servo motors
 
-**Software:** OneAPI Dev cloud Platform, Intel-tensorflow library, Intel optimized transfer learning models, One DNN Libraries
+**Software:** OneAPI Dev cloud Platform, Intel-tensorflow library, Intel optimized transfer learning models, One DNN Libraries, Fusion 360
 
 
 ## Support
