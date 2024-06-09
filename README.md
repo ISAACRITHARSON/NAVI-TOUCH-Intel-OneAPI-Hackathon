@@ -58,7 +58,7 @@ For any support, email isaacritharson@karunya.edu.in
  - [Servo motors and Arduino](https://docs.arduino.cc/learn/electronics/servo-motors)
 
 ## Team Members
--Isaac Ritharson, Sri Ram MS, Shree Hari B, Dakshnakumar GS
+-Isaac Ritharson, Sri Ram M S, Shree Hari B, Dakshnakumar GS
 
 ## Contributing
 
